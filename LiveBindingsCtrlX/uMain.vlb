@@ -1,0 +1,17 @@
+﻿[Label1]
+Coordinates=360,30,46,33
+Visible=False
+
+[CustomerBindSource]
+Coordinates=10,10,120,69
+
+[]
+Coordinates=50,88,82,33
+
+[BindingsList1]
+Coordinates=149,80,82,33
+
+[CustomerEdit]
+Coordinates=200,20,81,51
+Visible=True
+
